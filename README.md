@@ -1,7 +1,9 @@
-# coderslab_webschool_html_css
-https://andrzejsenderecki.github.io/Web_School_HTML_CSS/
 
 <h2>Strona internetowa Web School</h2>
+
+Link do projektu:
+
+https://andrzejsenderecki.github.io/Web_School_HTML_CSS/
 
 Strona została wykonana na podstawie projektu graficznego.
 
