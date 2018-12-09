@@ -13,6 +13,6 @@ Strona została wykonana na podstawie projektu graficznego.
 
 - CSS
 
-Projekt graficzny udostępniony przez Coders Lab w ramach kursu "JavaScript developer: React".
+Projekt graficzny został udostępniony przez Coders Lab w ramach kursu "JavaScript Developer: React".
 
 ![zolty layout](https://user-images.githubusercontent.com/33809996/40674553-7d645c68-6375-11e8-8b6c-faf909debb6c.jpg)
