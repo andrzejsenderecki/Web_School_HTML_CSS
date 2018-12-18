@@ -3,7 +3,7 @@
 
 Link do projektu:
 
-https://andrzejsenderecki.github.io/Web_School_HTML_CSS/
+https://andrzejsenderecki.github.io/Web_School_HTML_CSS/webschool
 
 Strona została wykonana na podstawie projektu graficznego.
 
